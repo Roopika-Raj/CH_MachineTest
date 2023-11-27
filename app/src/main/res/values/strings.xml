@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CH_MachineTest</string>
+    <string name="coding_hands">Coding Hands</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="orders">Orders</string>
+    <string name="more">More</string>
+    <string name="fragmentHome">fragment_home</string>
+    <string name="notification">notification</string>
+    <string name="all">All</string>
+    <string name="iphone_9">iPhone 9</string>
+    <string name="_549">$ 549</string>
+    <string name="_17_91_off">17.91% Off</string>
+    <string name="_280">$280</string>
+    <string name="oppof19">OPPOF19</string>
+    <string name="ok">OK</string>
+    <string name="codingHands">Coding Hands</string>
+
+
+</resources>
